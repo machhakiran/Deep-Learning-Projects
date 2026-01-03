@@ -34,27 +34,27 @@ Below are the key architecture diagrams covered in this course:
 <summary><b>Click to view all diagrams</b></summary>
 
 ### Neural Network Architecture
-![Neural Network](./images/neural_network_architecture.png)
+![Neural Network](images/neural_network_architecture.jpg)
 <p><i>Basic feedforward neural network structure</i></p>
 
 ### Activation Functions
-![Activation Functions](./images/activation_functions.png)
+![Activation Functions](images/activation_functions.jpg)
 <p><i>ReLU, Sigmoid, and Tanh comparison</i></p>
 
 ### Backpropagation Flow
-![Backpropagation](./images/backpropagation_flow.png)
+![Backpropagation](images/backpropagation_flow.jpg)
 <p><i>Forward and backward pass visualization</i></p>
 
 ### CNN Architecture
-![CNN](./images/cnn_architecture.png)
+![CNN](images/cnn_architecture.jpg)
 <p><i>Convolutional neural network structure</i></p>
 
 ### LSTM Structure
-![LSTM](./images/lstm_structure.png)
+![LSTM](images/lstm_structure.jpg)
 <p><i>Long Short-Term Memory cell architecture</i></p>
 
 ### Autoencoder Architecture
-![Autoencoder](./images/autoencoder_architecture.png)
+![Autoencoder](images/autoencoder_architecture.jpg)
 <p><i>Encoder-decoder structure with latent space</i></p>
 
 </details>
@@ -140,7 +140,7 @@ Binary and multiclass classification using logistic regression, including decisi
 <details>
 <summary><b>Section 8: Introduction to Neural Networks and Deep Learning</b> (42min • 5/5 lessons) 📖</summary>
 
-![Neural Network Architecture](./images/neural_network_architecture.png)
+![Neural Network Architecture](images/neural_network_architecture.jpg)
 
 Core concepts of neural networks:
 - **Perceptrons** and Multi-layer Perceptrons
@@ -152,7 +152,7 @@ Core concepts of neural networks:
 <details>
 <summary><b>Section 9: Activation Functions</b> (48min • 4/8 lessons) 📖</summary>
 
-![Activation Functions](./images/activation_functions.png)
+![Activation Functions](images/activation_functions.jpg)
 
 Deep dive into activation functions:
 - **ReLU** (Rectified Linear Unit) - most common
@@ -175,7 +175,7 @@ Understanding loss functions for different tasks:
 <details>
 <summary><b>Section 11: Back Propagation</b> (39min • 2/4 lessons) 📖</summary>
 
-![Backpropagation Flow](./images/backpropagation_flow.png)
+![Backpropagation Flow](images/backpropagation_flow.jpg)
 
 Mathematical foundations of backpropagation:
 - **Chain rule** application
@@ -277,7 +277,7 @@ Building custom neural network layers with learnable parameters.
 <details>
 <summary><b>Section 21: Convolutional Neural Network with PyTorch</b> (2hr 14min • 14/14 lessons) 📁 <a href="./4_Section_21_CNN_PyTorch/">Folder</a></summary>
 
-![CNN Architecture](./images/cnn_architecture.png)
+![CNN Architecture](images/cnn_architecture.jpg)
 
 Complete CNN implementation:
 - **Convolutional layers** with filters/kernels
@@ -290,7 +290,7 @@ Complete CNN implementation:
 <details>
 <summary><b>Section 22: Convolutional Neural Network with TensorFlow</b> (32min • 1/4 lessons) 📁 <a href="./4_Section_22_CNN_TensorFlow/">Folder</a></summary>
 
-![CNN Architecture](./images/cnn_architecture.png)
+![CNN Architecture](images/cnn_architecture.jpg)
 
 TensorFlow/Keras CNN implementation with data augmentation techniques.
 </details>
@@ -324,7 +324,7 @@ RNN fundamentals for sequence data:
 <details>
 <summary><b>Section 25: LSTM with TensorFlow</b> (1hr 20min • 0/9 lessons) 📁 <a href="./5_Section_25_LSTM_TensorFlow/">Folder</a></summary>
 
-![LSTM Architecture](./images/lstm_structure.png)
+![LSTM Architecture](images/lstm_structure.jpg)
 
 Long Short-Term Memory networks:
 - **Forget gate** - selective memory
@@ -337,7 +337,7 @@ Long Short-Term Memory networks:
 <details>
 <summary><b>Section 26: Bidirectional LSTM with TensorFlow</b> (37min • 0/6 lessons) 📁 <a href="./5_Section_26_Bidirectional_LSTM_TensorFlow/">Folder</a></summary>
 
-![LSTM Architecture](./images/lstm_structure.png)
+![LSTM Architecture](images/lstm_structure.jpg)
 
 Bidirectional LSTM for processing sequences in both directions.
 </details>
@@ -345,7 +345,7 @@ Bidirectional LSTM for processing sequences in both directions.
 <details>
 <summary><b>Section 27: Bidirectional LSTM with PyTorch</b> (27min • 0/3 lessons) 📁 <a href="./5_Section_27_Bidirectional_LSTM_PyTorch/">Folder</a></summary>
 
-![LSTM Architecture](./images/lstm_structure.png)
+![LSTM Architecture](images/lstm_structure.jpg)
 
 PyTorch implementation of bidirectional LSTM networks.
 </details>
@@ -374,7 +374,7 @@ TensorFlow implementation of 1D convolutional networks.
 <details>
 <summary><b>Section 30: Autoencoders</b> (53min • 4/6 lessons) 📁 <a href="./6_Section_30_Autoencoders/">Folder</a></summary>
 
-![Autoencoder Architecture](./images/autoencoder_architecture.png)
+![Autoencoder Architecture](images/autoencoder_architecture.jpg)
 
 Unsupervised learning with autoencoders:
 - **Encoder** - dimensionality reduction
@@ -387,7 +387,7 @@ Unsupervised learning with autoencoders:
 <details>
 <summary><b>Section 31: CNN Autoencoder</b> (23min • 0/3 lessons) 📁 <a href="./6_Section_31_CNN_Autoencoder/">Folder</a></summary>
 
-![Autoencoder Architecture](./images/autoencoder_architecture.png)
+![Autoencoder Architecture](images/autoencoder_architecture.jpg)
 
 Convolutional autoencoders for image data with transposed convolutions.
 </details>
@@ -395,7 +395,7 @@ Convolutional autoencoders for image data with transposed convolutions.
 <details>
 <summary><b>Section 32: LSTM Autoencoder</b> (32min • 0/5 lessons) 📁 <a href="./6_Section_32_LSTM_Autoencoder/">Folder</a></summary>
 
-![Autoencoder Architecture](./images/autoencoder_architecture.png)
+![Autoencoder Architecture](images/autoencoder_architecture.jpg)
 
 Sequence autoencoders using LSTM for time series anomaly detection.
 </details>
