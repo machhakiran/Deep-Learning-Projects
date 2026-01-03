@@ -1,4 +1,7 @@
-# 🎓 Complete Python Bootcamp: LangChain & Deep Learning
+<div align="center">
+  <img src="images/header.png" alt="Deep Learning with Projects by kavi.a" width="1000">
+</div>
+
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
