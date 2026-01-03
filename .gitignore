@@ -1,0 +1,8 @@
+*.csv
+*.zip
+*.7z
+*.rar
+.DS_Store
+# Exclude specific large datasets
+mnist_train.csv
+Heterogeneous_accelerometer_HAR.csv
